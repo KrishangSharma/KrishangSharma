@@ -5,7 +5,7 @@
 - 📫 How to reach me <br>
 E-mail Address: krishang.sharma.17704@gmail.com <br>
 Instagram @krishang.sharmaa <br>
-Discord @ Karan~5arma #2660
+Discord @ Karan~5harma #2660
 
 <!---
 KrishangSharma/KrishangSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
