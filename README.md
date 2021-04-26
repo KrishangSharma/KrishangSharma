@@ -4,7 +4,7 @@
 - 💞️ Currently I'm not good enough at any of them but, I can surely try to work collaboratively
 - 📫 How to reach me...
 - E-mail=> krishang.sharma.17704@gmail.com <br>
-- Instagram=> krishang.sharmaa
+- Instagram=> dev_krishang <br>
 - Discord=> Karan~5harma #2660
 
 <!---
