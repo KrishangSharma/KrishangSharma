@@ -4,7 +4,8 @@
 - 💞️ Currently I'm not good enough at any of them but, I can surely try to work collaboratively
 - 📫 How to reach me...
 - E-mail=> krishang.sharma.17704@gmail.com <br>
-- Instagram=> dev_krishang
+- Instagram=> krishang.sharmaa
+
 
 <!---
 KrishangSharma/KrishangSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
