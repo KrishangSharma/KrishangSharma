@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrishangSharma
 - 👀 I’m interested in learning new languages
 - 🌱 I am a Fornt End Web Developer, currently learning React
-- 💞️ Currently I'm not good enough at any of them but, I can surely try to work collaboratively
+- 💞️ Currently I'm not fluent in React, but I will be in need of time. 
 - 📫 How to reach me...
 - E-mail=> krishang.sharma.17704@gmail.com <br>
 - Instagram=> krishang.sharmaa
