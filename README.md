@@ -3,7 +3,7 @@
 - 🌱 Currently, I am getting my hands on the MERN Stack
 - 📫 How to reach me...
 - Instagram=> krishang.sharmaa
-- Portfolio=> <a href="https://krishangsharma.github.io/devwithme">KrishangSharma</a>
+- Website=> <a href="https://krishangsharma.github.io/devwithme" target="_blank">DevWithMe</a>
 - E-mail=> krishang.sharma.17704@gmail.com <br>
 
 
