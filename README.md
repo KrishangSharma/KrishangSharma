@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @KrishangSharma
 - 👀 I am a React Front-End Developer
-- 🌱 Currently, I'getting my hands on the MERN Stack
+- 🌱 Currently, I am getting my hands on the MERN Stack
 - 📫 How to reach me...
-- E-mail=> krishang.sharma.17704@gmail.com <br>
 - Instagram=> krishang.sharmaa
+- Portfolio=> <a href="https://krishangsharma.github.io/devwithme">KrishangSharma</a>
+- E-mail=> krishang.sharma.17704@gmail.com <br>
+
 
 <img src="https://komarev.com/ghpvc/?username=KrishangSharma" alt="KrishangSharma" />
 
