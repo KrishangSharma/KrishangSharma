@@ -2,7 +2,7 @@
 - 👀 I am a React Front-End Developer
 - 🌱 Currently, I am getting my hands on the MERN Stack
 - 📫 How to reach me...
-- Instagram=> krishang.sharmaa
+- Instagram=> <a href="https://instagram.com/krishang.sharmaa">krishang.sharmaa</a> and <a href="https://instagram.com/krishang_codes">krishang_codes</a>
 - Website=> <a href="https://krishangsharma.github.io/devwithme" target="_blank">DevWithMe</a>
 - E-mail=> krishang.sharma.17704@gmail.com <br>
 
