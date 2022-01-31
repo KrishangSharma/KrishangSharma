@@ -1,3 +1,5 @@
+<img src="https://imgur.com/undefined" alt="my_github_banner" />
+<br />
 - 👋 Hi, I’m @KrishangSharma
 - 👀 I am a React Front-End Developer
 - 🌱 Currently, I am getting my hands on the MERN Stack
