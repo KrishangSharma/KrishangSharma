@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/882108871139811390/940319722359115846/SPRK_default_preset_name_custom_1.png" alt="my_github_banner" />
+<img src="https://cdn.discordapp.com/attachments/882108871139811390/940320302561361940/SPRK_default_preset_name_custom_1.png" alt="my_github_banner" />
 <br />
 - 👋 Hi, I’m @KrishangSharma
 - 👀 I am a React Front-End Developer
