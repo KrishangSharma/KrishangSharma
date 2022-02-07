@@ -2,7 +2,7 @@
 
 <br />
   
-- 👋 Hi, I’m @KrishangSharma <br />
+- 👋 Hi, I’m KrishangSharma <br />
 - 👀 I am a React Front-End Developer <br />
 - 🌱 Proficient in building UIs with React, I am now learning to make Full Stack applications with the MERN Stack. <br />
 - 📫 How to reach me... <br />
