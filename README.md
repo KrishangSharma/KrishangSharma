@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @KrishangSharma <br />
 - 👀 I am a React Front-End Developer <br />
 - 🌱 Proficient in building UIs with React, I am now learning to make Full Stack applications with the MERN Stack. <br />
-[Krishang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishangSharma)
+[Krishang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishangSharma
+)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me... <br />
 - Instagram=> <a href="https://instagram.com/krishang.sharmaa" target="_blank">krishang.sharmaa</a> and <a href="https://instagram.com/krishang_codes" target="_blank">krishang_codes</a> <br />
 - E-mail=> krishang.sharma.17704@gmail.com <br>
