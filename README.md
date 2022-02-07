@@ -1,10 +1,10 @@
 <img src="https://cdn.discordapp.com/attachments/882108871139811390/940320302561361940/SPRK_default_preset_name_custom_1.png" alt="my_github_banner" />
 <br />
-- 👋 Hi, I’m @KrishangSharma
-- 👀 I am a React Front-End Developer
-- 🌱 Currently, I am getting my hands on the MERN Stack
-- 📫 How to reach me...
-- Instagram=> <a href="https://instagram.com/krishang.sharmaa" target="_blank">krishang.sharmaa</a> and <a href="https://instagram.com/krishang_codes" target="_blank">krishang_codes</a>
+- 👋 Hi, I’m @KrishangSharma <br />
+- 👀 I am a React Front-End Developer <br />
+- 🌱 Proficient in building UIs with React, I am now learning to make Full Stack applications with the MERN Stack. <br />
+- 📫 How to reach me... <br />
+- Instagram=> <a href="https://instagram.com/krishang.sharmaa" target="_blank">krishang.sharmaa</a> and <a href="https://instagram.com/krishang_codes" target="_blank">krishang_codes</a> <br />
 - E-mail=> krishang.sharma.17704@gmail.com <br>
 
 
