@@ -1,8 +1,6 @@
 <h1 align="left">Krishang Sharma</h1>
 <h3 align="left">Front end and React JS Developer based in Delhi, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishangsharma&label=Profile%20views&color=117dac&style=flat" alt="krishangsharma" /> </p>
-
 - 🌱 I’m currently learning **Redux and the MERN Stack**
 
 - 📫 How to reach me **krishang.sharma.17704@gmail.com**
