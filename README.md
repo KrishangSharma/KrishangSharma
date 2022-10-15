@@ -1,7 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/882108871139811390/940320302561361940/SPRK_default_preset_name_custom_1.png" alt="my_github_banner" />
-
-<br />
-
 <h1 align="left">Krishang Sharma</h1>
 <h3 align="left">Front end and React JS Developer based in Delhi, India</h3>
 
