@@ -1,7 +1,7 @@
 <h1 align="left">Krishang Sharma</h1>
 <h3 align="left">Front end and React JS Developer based in Delhi, India</h3>
 
-- 🌱 I’m currently learning **Redux and the MERN Stack**
+- 🌱 Learning from Griund Up
 
 - 📫 How to reach me **krishang.sharma.17704@gmail.com**
 
