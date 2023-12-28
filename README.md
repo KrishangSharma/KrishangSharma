@@ -7,7 +7,7 @@ Full Stack Developer
 I started web development after completing my school, and now I am doing Full stack development for quite a while.
 
 * 🌍  I'm based in Delhi, India
-* 🖥️  See my portfolio at [My Portfolio](http://krishangsharma.github.io/portoflio)
+* 🖥️  See my portfolio at [My Portfolio](https://krishangsharma.github.io/portfolio)
 * ✉️  You can contact me at [krishang.sharma.17704@gmail.com](mailto:krishang.sharma.17704@gmail.com)
 * 🧠  I'm learning Advanced TailwindCSS and Material UI and Python(Uni cirriculum)
 
