@@ -7,8 +7,8 @@ Full Stack Developer
 I started web development after completing my school, and now I am doing Full stack development for quite a while.
 
 * 🌍  I'm based in Delhi, India
-* 🖥️  See my portfolio at [My Portfolio](https://krishangsharma.vercel.app/)
-* ✉️  You can contact me at [krishang.sharma.17704@gmail.com](mailto:krishang.sharma.17704@gmail.com)
+* 🖥️  See my portfolio [here](https://krishangsharma.vercel.app/).
+* ✉️  You can mail me at [krishang.sharma.17704@gmail.com](mailto:krishang.sharma.17704@gmail.com)
 * 🧠  I'm learning Advanced TailwindCSS and Material UI and Python(Uni cirriculum)
 * ☎️  Reach me at [Instagram](https://instagram.com/krishang.sharmaa) or [LinkedIn](https://linkedin.com/in/krishangsharma)
 
